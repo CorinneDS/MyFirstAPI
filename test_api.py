@@ -2,7 +2,7 @@ import pytest
 from flask import Flask
 import pandas as pd
 import random
-from api import app  # Remplacez 'your_flask_app' par 'api' ou le nom du module où se trouve votre application
+from api import app 
 
 @pytest.fixture
 def client():
