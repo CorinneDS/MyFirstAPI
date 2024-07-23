@@ -1,0 +1,1 @@
+Ce depot permet de gerer l'API et les fichiers qu'elle utilise. Cette API utilise le meilleur modele entraine en projet 7 et retourne les probabilites d'appartenance aux deux classes 0 et 1, ainsi que la prediction finale (0 ou 1).
